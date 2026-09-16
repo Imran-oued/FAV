@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Plane, Hotel, Bus, Utensils, HeartHandshake } from 'lucide-react';
 import { motion } from 'framer-motion';
 

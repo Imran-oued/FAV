@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { MapPin, Phone, Mail, MessageCircle, X } from 'lucide-react';
-import { Link } from 'react-scroll';
+
 
 export const Footer = () => {
   const [activeModal, setActiveModal] = useState<string | null>(null);

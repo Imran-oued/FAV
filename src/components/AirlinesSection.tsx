@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const airlines = [
   { name: "Ethiopian Airlines", logo: "/airlines/ethiopian.png" },

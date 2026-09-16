@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { ShieldCheck, Clock, Users, MapPin, Smile, Star } from 'lucide-react';
 
